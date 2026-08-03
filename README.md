@@ -1,23 +1,29 @@
-<img src="flow-arrow-duotone.svg" width="32" height="32"/> <h1>Robert Leon</h1>
+<h1>Robert Leon</h1>
 
 I help small businesses replace their chaos of spreadsheets, group chats, and disconnected tools with one automated system that actually runs their operations.
 
-<img src="flow-arrow-duotone.svg" width="20" height="20"/> Background
+<h3>Background</h3>
 
-Before automation, I ran and scaled a $1M/year operation with a team of 13–30 people. I built the systems that let it run 9 days straight without me. Now I build that same kind of system for smaller businesses — minus the team, minus the overhead.
+Before automation, I ran and scaled a $1M/year operation with a team of 24 people. I built the systems that let it run 9 days straight without me. Now I build that same kind of system for SMBs, minus the team, minus the overhead.
 
-<img src="flow-arrow-duotone.svg" width="20" height="20"/> What I do
+<h3>What I do</h3>
 
 → Map the manual process that's costing you time → Build the n8n workflow that replaces it → Hand you something that keeps running without you watching it
 
-<img src="flow-arrow-duotone.svg" width="20" height="20"/> Currently
+I build automation workflows that:
+→ give you more time
+→ drive more data/insights about your business
+→ cut the errors manual work always creates
+→ keep running whether you're watching or not
 
-Working through a structured, hands-on path to production-grade n8n. Documented, not staged — see n8n-workflows.
+<h3>Currently</h3>
 
-<img src="flow-arrow-duotone.svg" width="20" height="20"/> Off the clock
+Working through a structured, hands-on path to production-grade n8n.
+
+<h3>Off the clock</h3>
 
 Motorcycles, and building things that don't need an on/off switch.
 
-<img src="flow-arrow-duotone.svg" width="20" height="20"/> Get in touch
+<h3>Get in touch</h3>
 
-[your email] · [your LinkedIn]
+[your website] · [your email] · [your LinkedIn]
