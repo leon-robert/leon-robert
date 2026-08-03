@@ -1,20 +1,23 @@
-## Hi there 👋
+<img src="flow-arrow-duotone.svg" width="32" height="32"/> Robert Leon
 
-<!--
-**leon-robert/leon-robert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help small businesses replace their chaos of spreadsheets, group chats, and disconnected tools with one automated system that actually runs their operations.
 
-Here are some ideas to get you started:
+<img src="flow-arrow-duotone.svg" width="20" height="20"/> Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before automation, I ran and scaled a $1M/year operation with a team of 13–30 people. I built the systems that let it run 9 days straight without me. Now I build that same kind of system for smaller businesses — minus the team, minus the overhead.
 
-<img src="flow-arrow-duotone.svg" width="16" height="16"> Here comes a title
+<img src="flow-arrow-duotone.svg" width="20" height="20"/> What I do
 
-flow-arrow-duotone.svg
+→ Map the manual process that's costing you time → Build the n8n workflow that replaces it → Hand you something that keeps running without you watching it
+
+<img src="flow-arrow-duotone.svg" width="20" height="20"/> Currently
+
+Working through a structured, hands-on path to production-grade n8n. Documented, not staged — see n8n-workflows.
+
+<img src="flow-arrow-duotone.svg" width="20" height="20"/> Off the clock
+
+Motorcycles, and building things that don't need an on/off switch.
+
+<img src="flow-arrow-duotone.svg" width="20" height="20"/> Get in touch
+
+[your email] · [your LinkedIn]
