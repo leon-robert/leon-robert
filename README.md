@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="assets/flow-arrow-duotone.svg" width="20" height="20"> Here comes a title
+<img src="assets/flow-arrow-duotone.svg" width="16" height="16"> Here comes a title
