@@ -1,4 +1,4 @@
-<img src="flow-arrow-duotone.svg" width="32" height="32"/> Robert Leon
+<img src="flow-arrow-duotone.svg" width="32" height="32"/> <h1>Robert Leon</h1>
 
 I help small businesses replace their chaos of spreadsheets, group chats, and disconnected tools with one automated system that actually runs their operations.
 
