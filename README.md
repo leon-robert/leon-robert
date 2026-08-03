@@ -2,7 +2,7 @@
 
 I help small businesses replace their chaos of spreadsheets, group chats, and disconnected tools with one automated system that actually runs their operations. -->
 
-<img src="asstes/social-media-banner.png">
+<img src="assets/social-media-banner.png">
 
 <h3>Background</h3>
 
