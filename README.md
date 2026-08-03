@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="assets/flow-arrow-duotone.png" width="20" height="20">
+<img src="assets/flow-arrow-duotone.svg" width="20" height="20">
