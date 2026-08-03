@@ -1,6 +1,8 @@
-<h1>Robert Leon</h1>
+<!-- <h1>Robert Leon</h1>
 
-I help small businesses replace their chaos of spreadsheets, group chats, and disconnected tools with one automated system that actually runs their operations.
+I help small businesses replace their chaos of spreadsheets, group chats, and disconnected tools with one automated system that actually runs their operations. -->
+
+<img src="social-media-banner.png">
 
 <h3>Background</h3>
 
@@ -8,11 +10,11 @@ Before automation, I ran and scaled a $1M/year operation with a team of 24 peopl
 
 <h3>What I do</h3>
 
-I build automation workflows that:
-→ give you more time
-→ drive more data/insights about your business
-→ cut the errors manual work always creates
-→ keep running whether you're watching or not
+I build automation workflows that:<br>
+→ give you more time<br>
+→ drive more data/insights about your business<br>
+→ cut the errors manual work always creates<br>
+→ keep running whether you're watching or not<br>
 
 <h3>Currently</h3>
 
