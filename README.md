@@ -8,8 +8,6 @@ Before automation, I ran and scaled a $1M/year operation with a team of 24 peopl
 
 <h3>What I do</h3>
 
-→ Map the manual process that's costing you time → Build the n8n workflow that replaces it → Hand you something that keeps running without you watching it
-
 I build automation workflows that:
 → give you more time
 → drive more data/insights about your business
